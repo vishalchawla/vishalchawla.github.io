@@ -1,0 +1,15 @@
+canvas {
+	border: 5px solid #ffffff;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+#diceName {
+	font-size:50px;
+	font-weight: bold;
+}
+
+#diceControl {
+	cursor: pointer;
+}
